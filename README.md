@@ -1,5 +1,5 @@
-# Unlearning-TPO
-This is the official repository for "[Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/pdf/2506.03142)" by [Xiangyu Zhou](https://www.linkedin.com/in/xiangyu-zhou-71086321a/), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en&oi=ao), [Douglas Zytko](https://dougzytko.com/), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
+# Not All Tokens Are Meant to Be Forgotten (AAAI-2026 Oral)
+This is the official code repository for AAAI 2026 paper "[Not All Tokens Are Meant to Be Forgotten](https://arxiv.org/abs/2506.03142)" by [Xiangyu Zhou](https://www.linkedin.com/in/xiangyu-zhou-71086321a/), [Yao Qiang](https://qiangyao1988.github.io/), [Saleh Zare Zade](https://scholar.google.com/citations?user=O3X_iagAAAAJ&hl=en&oi=ao), [Douglas Zytko](https://dougzytko.com/), [Prashant Khanduri](https://sites.google.com/view/khanduri-prashant/), [Dongxiao Zhu](https://dongxiaozhu.github.io/)
 
 <table align="center">
   <tr>
@@ -18,8 +18,12 @@ Large Language Models (LLMs), pre-trained on massive text corpora, exhibit remar
 - [TPO on TOFU](TOFU)
 - [TPO on MUSE](MUSE)
 
+
 ## Cite This Work
 ```bash
-
-
-
+@article{zhou2025not,
+  title={Not All Tokens Are Meant to Be Forgotten},
+  author={Zhou, Xiangyu and Qiang, Yao and Zade, Saleh Zare and Zytko, Douglas and Khanduri, Prashant and Zhu, Dongxiao},
+  journal={arXiv preprint arXiv:2506.03142},
+  year={2025}
+}
