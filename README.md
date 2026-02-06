@@ -14,7 +14,7 @@ This is the official code repository for AAAI 2026 paper "[Not All Tokens Are Me
 <table align="center">
   <tr>
     <td align="center"> 
-      <img src="images/Idea Figure.png" alt="Teaser" style="width: 900px;"/> 
+      <img src="images/Idea Figure.png" alt="Teaser" style="width: 1100px;"/> 
       <br>
       <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1:</strong> Illustration of the proposed TIF framework.</em>
     </td>
